@@ -1,0 +1,23 @@
+body {
+    margin-left: 20px;
+}
+
+.chat {
+    background: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    width: 300px; /* Isse saare boxes ka size ek jaisa ho jayega */
+    margin-bottom: 15px; /* Boxes ke darmiyan space ke liye */
+}
+
+.msg {
+    background: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
+.btn-form {
+    display: inline-block; /* Forms ko ek hi line par lane ke liye */
+    margin-right: 5px;     /* Buttons ke darmiyan thoda space */
+}
